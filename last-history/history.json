@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7d990ef98d7c937b",
-      "reportUrl" : "https://Lia4-info.github.io/cicd-py-example/2//#testresult/7d990ef98d7c937b",
+      "uid" : "2b9b0a73c2676439",
+      "reportUrl" : "https://Lia4-info.github.io/cicd-py-example/3//#testresult/2b9b0a73c2676439",
       "status" : "passed",
       "time" : {
-        "start" : 1624372390134,
-        "stop" : 1624372390135,
-        "duration" : 1
+        "start" : 1624373259030,
+        "stop" : 1624373259030,
+        "duration" : 0
       }
     } ]
   },
@@ -29,33 +29,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "cca2b88a2bebaf70",
-      "reportUrl" : "https://Lia4-info.github.io/cicd-py-example/2//#testresult/cca2b88a2bebaf70",
+      "uid" : "85bd05cd284f0fbd",
+      "reportUrl" : "https://Lia4-info.github.io/cicd-py-example/3//#testresult/85bd05cd284f0fbd",
       "status" : "passed",
       "time" : {
-        "start" : 1624372390132,
-        "stop" : 1624372390132,
-        "duration" : 0
-      }
-    } ]
-  },
-  "dcb8fa11fdff83e2daf0e792014a33fe" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "4003a4e6d364f29",
-      "reportUrl" : "https://Lia4-info.github.io/cicd-py-example/2//#testresult/4003a4e6d364f29",
-      "status" : "passed",
-      "time" : {
-        "start" : 1624372390133,
-        "stop" : 1624372390133,
-        "duration" : 0
+        "start" : 1624373259026,
+        "stop" : 1624373259027,
+        "duration" : 1
       }
     } ]
   },
@@ -69,12 +49,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5876270c74f15ad1",
-      "reportUrl" : "https://Lia4-info.github.io/cicd-py-example/2//#testresult/5876270c74f15ad1",
+      "uid" : "29524a375e480ae3",
+      "reportUrl" : "https://Lia4-info.github.io/cicd-py-example/3//#testresult/29524a375e480ae3",
       "status" : "passed",
       "time" : {
-        "start" : 1624372390130,
-        "stop" : 1624372390130,
+        "start" : 1624373259024,
+        "stop" : 1624373259025,
+        "duration" : 1
+      }
+    } ]
+  },
+  "dcb8fa11fdff83e2daf0e792014a33fe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ad13b5dd119e1d",
+      "reportUrl" : "https://Lia4-info.github.io/cicd-py-example/3//#testresult/2ad13b5dd119e1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624373259028,
+        "stop" : 1624373259028,
         "duration" : 0
       }
     } ]
